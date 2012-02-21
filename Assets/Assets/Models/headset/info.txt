@@ -1,0 +1,25 @@
+- Name: Headset
+- Price: FREE
+- For 3dsMax 7 or higher
+----------------------------------------------------------------------------------------------------
+-Keywords: headset headphone phones phone telephone cellphone music dj recording studio stereo headset speaker multimedia mobile electronics communication call
+----------------------------------------------------------------------------------------------------
+---Info---
+- Edge-loop based model.
+- Polygonal subdivision geometry.
+- Light and render setup.
+- Mental Ray with Standart materials.
+
+- 2,072 polygons
+- 2,111 vertices
+
+---files---
+- headset.max - 3ds max 7.0 file (including light/render setup)
+- maps.rar - maps/textures
+- headset.obj - obj file (including material grups/UVW)
+
+---maps---
+- tiles.bmp - 85x148
+- env.hdr - 128x64
+----------------------------------------------------------------------------------------------------
+(C)2009 Nikola Dechev
